@@ -1,0 +1,11 @@
+id,name,category,brands,price_from,price_to,after_sale_services,rating,shop_type,availability_time_minutes,distance_km,description
+1,Modern Furnishings,Furniture,Ikea|Local,5000,50000,warranty|installation,4.6,store,120,2.5,Quality modern furniture, quick custom orders
+2,Gadget World,Digital electronics,Samsung|Apple|Xiaomi,5000,150000,repair|warranty,4.8,mall,30,1.2,Wide selection of phones and accessories
+3,ShoeCorner,Shoes,Nike|Adidas,1200,9000,return|repair,4.2,store,10,0.8,Fast pickup available
+4,WatchHouse,Watch,Rolex|Fossil,10000,200000,warranty,4.7,mall,60,3.0,Luxury & casual watches
+5,PhoneHub,Smartphone,Samsung|OnePlus|Apple,8000,120000,repair|exchange,4.5,store,45,0.5,Special orders in 1 hour
+6,HomeArt,Home decor,Ikea|Local,300,20000,warranty|returns,4.1,store,1440,2.0,Custom frames & decor
+7,PaperPlus,Stationary,Any,20,2000,returns,4.0,store,5,0.4,School & office supplies
+8,Bistro99,Restaurant,N/A,100,1000,none,4.3,restaurant,30,0.6,Quick bites and beverages
+9,TeaTime,Beverage,N/A,20,500,none,4.0,store,5,0.3,Local beverages and tea blends
+10,TrendCloth,Clothes,Zara|Local,500,10000,returns|alteration,4.4,mall,120,1.5,Seasonal clothing collections

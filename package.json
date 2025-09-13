@@ -1,0 +1,13 @@
+{
+  "name": "offline-shop-recommender-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start:frontend": "cd frontend && npm install && npm run dev",
+    "start:server": "cd server && npm install && node index.js",
+    "start": "concurrently \"npm run start:server\" \"npm run start:frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  }
+}
