@@ -1,13 +1,16 @@
 {
-  "name": "offline-shop-recommender-starter",
-  "version": "0.1.0",
+  "name": "server",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start:frontend": "cd frontend && npm install && npm run dev",
-    "start:server": "cd server && npm install && node index.js",
-    "start": "concurrently \"npm run start:server\" \"npm run start:frontend\""
+    "start": "node index.js"
   },
-  "devDependencies": {
-    "concurrently": "^8.0.0"
+  "dependencies": {
+    "express": "^4.18.2",
+    "csv-parse": "^5.3.9",
+    "csv-stringify": "^6.2.0",
+    "multer": "^1.4.5",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
   }
 }
